@@ -1,0 +1,39 @@
+.containerl{
+   background:none;
+   display: flex;
+    height:100%;
+    margin-left: 30px;
+    background-size: cover;
+    object-fit: contain;
+    background:ur("https://images.unsplash.com/photo-1528747045269-390fe33c19f2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80")
+}
+.containerc{
+    display: flex;
+    width: 100%;
+}
+.containerp{
+    color:brown
+}
+.containerc{
+    background-color: rgb(255, 255, 255);
+}
+.containerr{
+    display: flex;
+    flex-direction: column;
+    color: #002341;
+   margin: 100px;
+}
+.map{
+    width:100%;
+    margin-top:30px;
+    height: 100vh;
+
+}
+.h1contact{
+    color:white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
