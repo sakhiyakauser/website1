@@ -1,0 +1,18 @@
+.dwn{
+    width:100%;
+    background-image: url("https://www.vigem.de/sites/default/files/uploads/images/Downloadcenter.jpg");
+  height:80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    background-attachment: fixed;
+    transition: 0.55s;
+  margin:10px;
+    scroll-behavior: smooth;
+}
+.downloads{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+}
